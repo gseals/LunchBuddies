@@ -8,7 +8,6 @@ namespace LunchBuddies
         static void Main(string[] args)
         {
             List<LunchBuddy> buddies = new List<LunchBuddy>();
-            var LunchBuddy = new LunchBuddy("Mr.", "Twister");
             var buddy = new LunchBuddy("Mikey", "Jones");
 
             buddies.Add(new LunchBuddy("Ryan", "Cargo"));
